@@ -1,38 +1,29 @@
-![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
 
-**Qwertycoin is a decentralized peer-to-peer protocol for safe payments worldwide.**
 
-### Qwertycoin Blockchain Explorer
+**Chimera is a decentralized peer-to-peer protocol for safe payments worldwide.**
 
-Block explorer for Qwertycoin CryptoNote based cryptocurrency based on the Karbowanec Block Explorer
+### Chimera Blockchain Explorer
+
+Block explorer for Chimera CryptoNote based cryptocurrency based on the Karbowanec Block Explorer
 
 #### Installation
 
-1) It takes data from daemon qwertycoind. It should be accessible from the Internet. Run qwertycoind with open port as follows:
+1) It takes data from daemon chimerad. It should be accessible from the Internet. Run qwertycoind with open port as follows:
 ```bash
-./qwertycoind --restricted-rpc --enable-cors=* --enable-blockchain-indexes --rpc-bind-ip=0.0.0.0 --rpc-bind-port=8197
+./chimerad --enable-cors=* --rpc-bind-ip=0.0.0.0 --rpc-bind-port=8197
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon. Also change the '$apiNode=' variable in /api/index.php to point the API urls to your daemon.
 
 ## Donate
 
 ```
-QWC: QWC1K6XEhCC1WsZzT9RRVpc1MLXXdHVKt2BUGSrsmkkXAvqh52sVnNc1pYmoF2TEXsAvZnyPaZu8MW3S8EWHNfAh7X2xa63P7Y
+CMRA: cmracYag8GeAjELvfQZafXewWnPe5zUVPQCEVj444uBPJimCSVfT43Q4rCme6TVuxDPpuyUKs8q5PcJWf1w568HtcHUYyc75Gmh
 ```
 ```
-BTC: 1DkocMNiqFkbjhCmG4sg9zYQbi4YuguFWw
+BTC: 3GVrutx2mdn7Gr63oVL83htgLBfMzXHJfT
 ```
 ```
-ETH: 0xA660Fb28C06542258bd740973c17F2632dff2517
-```
-```
-BCH: qz975ndvcechzywtz59xpkt2hhdzkzt3vvt8762yk9
-```
-```
-XMR: 47gmN4GMQ17Veur5YEpru7eCQc5A65DaWUThZa9z9bP6jNMYXPKAyjDcAW4RzNYbRChEwnKu1H3qt9FPW9CnpwZgNscKawX
-```
-```
-ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQp31GbG3M2DiVM3qRDSQ5Vwq
+ETH: 0xec2e86bc5b952dd5415270a123ec1eb89e1226ba
 ```
 
 #### Thanks
