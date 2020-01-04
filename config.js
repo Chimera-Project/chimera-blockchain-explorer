@@ -1,6 +1,6 @@
-var api = "127.0.0.1:8197";
+var api = "http://explorer.chimeraproject.io/api";
 var apiList = [
-	"http://chimera.pdss2access.com:8117"
+	"http://explorer.chimeraproject.io/"
 ];
 var blockTargetInterval = 60;
 var coinUnits = 100;
@@ -20,5 +20,6 @@ var poolsStat =
 var nodesStat =
 	[
 		["us-east.chimeraproject.io:8197"],
+		["explorer.chimeraproject.io:8197"],
 		["cryptodude.chimeraproject.io:8197"]
     ];
