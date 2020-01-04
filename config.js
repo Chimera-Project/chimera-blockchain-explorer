@@ -1,11 +1,11 @@
-var api = "http://explorer.chimeraproject.io/api";
+var api = "http://explorer.chimeraproject.io:8197";
 var apiList = [
 	"http://explorer.chimeraproject.io/"
 ];
 var blockTargetInterval = 60;
 var coinUnits = 100;
 var symbol = 'CMRA';
-var refreshDelay = 20000;
+var refreshDelay = 30000;
 // pools stats by MainCoins
 var poolsStat =
 	[
