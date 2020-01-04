@@ -1,4 +1,4 @@
-var api = "http://explorer.chimeraproject.io:8197";
+var api = "http://54.172.240.25:8117";
 var apiList = [
 	"http://explorer.chimeraproject.io/"
 ];
