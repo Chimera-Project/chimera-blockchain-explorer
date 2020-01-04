@@ -1,6 +1,6 @@
 var api = "http://54.172.240.25:8117";
 var apiList = [
-	"http://explorer.chimeraproject.io/"
+	"http://54.172.240.25:8117"
 ];
 var blockTargetInterval = 60;
 var coinUnits = 100;
