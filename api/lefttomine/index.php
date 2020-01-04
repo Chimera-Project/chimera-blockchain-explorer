@@ -1,7 +1,7 @@
 <?php
 include(dirname(__FILE__)."/../../api/config.php");
 
-$totalSupply = 184467440737;
+$totalSupply = 1000000000;
 
 $data_string = '{"jsonrpc":"2.0","id":"test","method":"getlastblockheader","params":" "}';
 
