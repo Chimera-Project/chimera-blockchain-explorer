@@ -46,32 +46,32 @@ if($_GET['mode'] == "get") {
 <html>
 
 <head>
-	<link rel="stylesheet" href="https://explorer.chimeraproject.io/api/styles.css">
+	<link rel="stylesheet" href="http://explorer.chimeraproject.io/api/styles.css">
 </head>
 
 <body>
 <h1>Market Related</h1>
 <ul>
-	<li><a href="https://explorer.chimeraproject.io/api/totalsupply">Total Supply</a> [Integer]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/supply">Circulating Supply</a> [Decimal]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/lefttomine">Supply left to mine</a> [Decimal]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/supplydeci">Total Supply</a> [Readable]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/totalsupply">Total Supply</a> [Integer]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/supply">Circulating Supply</a> [Decimal]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/lefttomine">Supply left to mine</a> [Decimal]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/supplydeci">Total Supply</a> [Readable]</li>
 
 </ul>
 <h1>Network Related</h1>
 <ul>
-	<li><a href="https://explorer.chimeraproject.io/api/chainsize">Blockchain size</a> [kiloByte]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/reward">Current Block Reward</a> [Double]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/difficulty">Current Difficulty</a> [Float]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/hashrate">Network Hashrate</a> [Hash/s]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/height">Network Height</a> [Integer]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/totaltx">Transactions count</a> [Integer]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/chainsize">Blockchain size</a> [kiloByte]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/reward">Current Block Reward</a> [Double]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/difficulty">Current Difficulty</a> [Float]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/hashrate">Network Hashrate</a> [Hash/s]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/height">Network Height</a> [Integer]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/totaltx">Transactions count</a> [Integer]</li>
 </ul>
 
 <h1>Checkpoint Section</h1>
 <ul>
-	<li><a href="https://explorer.chimeraproject.io/api/checkpoint_raw">Render a Chimera Checkpoint</a> [CodeLine]</li>
-	<li><a href="https://explorer.chimeraproject.io/api/checkpoint_csv">Download a Checkpoint file</a> [CSV-File]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/checkpoint_raw">Render a Chimera Checkpoint</a> [CodeLine]</li>
+	<li><a href="http://explorer.chimeraproject.io/api/checkpoint_csv">Download a Checkpoint file</a> [CSV-File]</li>
 </ul>
 
 </body>
