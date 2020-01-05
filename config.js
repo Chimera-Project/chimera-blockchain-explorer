@@ -22,5 +22,8 @@ var nodesStat =
 	[
 		['http://us-east.chimeraproject.io:11246'],
 		['http://eu.chimeraproject.io:11246'],
+		['http://asia-east.chimeraproject.io:11246'],
+		['http://chimera.pdss2access.com:11246'],
+		['http://54.172.240.25:11246'],
 		['http://cryptodude.chimeraproject.io:11246']
     ];
