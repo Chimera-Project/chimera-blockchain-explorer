@@ -20,7 +20,7 @@ var poolsStat =
     ];
 var nodesStat =
 	[
-		["us-east.chimeraproject.io:11246"],
+		['us-east.chimeraproject.io:11246'],
 		["explorer.chimeraproject.io:8197"],
 		["cryptodude.chimeraproject.io:11246"]
     ];
