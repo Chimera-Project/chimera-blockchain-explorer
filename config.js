@@ -16,7 +16,7 @@ var poolsStat =
 		["cryptonote.club","https://mng.cryptonote.club:8197/stats"],
 		["cryptonote.club 2","https://btch.cryptonote.club:8197/stats"],
 		["semipool.com","https://webcmra.semipool.com/api"],
-		["minercountry.com","https://wtips.minercountry.com/stats"]
+		["minercountry.com","https://wtips.minercountry.com/api/live_stats"]
     ];
 var nodesStat =
 	[
