@@ -1,7 +1,7 @@
 var api = 'http://54.196.198.150:8197';
-var api_blockexplorer = 'http://54.196.198.150:11246';
+var api_blockexplorer = 'http://54.172.240.25:11246';
 var apiList = [
-	'http://54.196.198.150:11246'
+	'http://chimera.pdss2access.com:11246'
 ];
 var blockTargetInterval = 60;
 var coinUnits = 100;
