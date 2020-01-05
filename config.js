@@ -6,7 +6,7 @@ var apiList = [
 var blockTargetInterval = 60;
 var coinUnits = 100;
 var symbol = 'CMRA';
-var refreshDelay = 30000;
+var refreshDelay = 15000;
 // pools stats by MainCoins
 var poolsStat =
 	[
