@@ -1,4 +1,4 @@
-var api = 'http://54.196.198.150:8197';
+var api = 'http://us-east.chimeraproject.io:11246';
 var api_blockexplorer = 'http://54.172.240.25:11246';
 var apiList = [
 	'http://chimera.pdss2access.com:11246'
