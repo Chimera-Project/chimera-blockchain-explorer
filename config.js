@@ -21,6 +21,6 @@ var poolsStat =
 var nodesStat =
 	[
 		['http://us-east.chimeraproject.io:11246'],
-		['http://explorer.chimeraproject.io:8197'],
+		['http://eu.chimeraproject.io:11246'],
 		['http://cryptodude.chimeraproject.io:11246']
     ];
