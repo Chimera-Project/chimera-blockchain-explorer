@@ -291,7 +291,7 @@ $.ajax({
 			success: function(data){
 			block = data.result.block;
 				updateText('totalCoins', addCommas(getReadableCoins(block.alreadyGeneratedCoins,2)));
-				updateText('emissionPercent', (block.alreadyGeneratedCoins / 18446744073700000000 * 100).toFixed(4) + "%");
+				updateText('emissionPercent', (block.alreadyGeneratedCoins / 100000000000000000 * 100).toFixed(4) + "%");
 				updateText('currentReward', addCommas(getReadableCoins(block.baseReward,4)));
 			}
 		});
