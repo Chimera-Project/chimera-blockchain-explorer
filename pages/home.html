@@ -240,7 +240,7 @@ currentPage = {
             updateText('networkTransactions', addCommas(lastStats.tx_count.toString()));
 			updateText('networkDifficulty', getReadableDifficultyString(lastStats.difficulty, 2).toString());
 			updateText('networkHashrate', getReadableHashRateString(lastStats.difficulty / blockTargetInterval));
-			updateText('minimumFee', '1');
+			updateText('minimumFee', 1);
 			$("time.timeago").timeago();
 			getPoolTransactions();
 			var currHeight = $('#blocks_rows').children().first().data('height');
